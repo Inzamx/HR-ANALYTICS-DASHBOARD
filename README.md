@@ -19,3 +19,6 @@ Use Cases
 - Understanding diversity trends to support inclusive HR strategies.
 - Optimizing hiring processes based on department-wise employee distribution.
 - Enhancing employee engagement by analyzing job satisfaction metrics.
+
+
+![image_alt](https://github.com/Inzamx/HR-ANALYTICS-DASHBOARD/blob/68557591e5590f768bc5047ee93e7d19d8178647/Screenshot%202025-06-03%20175018.png)
